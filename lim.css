@@ -1,0 +1,109 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.background{
+  padding: 1px;
+  margin: 10px;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 0px;
+  height: 800px;
+  width: 950px;
+  background: rgba(0, 0, 0, 0.5)
+
+
+}
+
+
+.container{
+  width: 700px;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+  padding: 0px;
+
+}
+
+.logo{
+  width: 200px;
+  height: 90px;
+}
+
+.slogan{
+  font-size: 25px;
+  color: lime;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.row{
+  width: 700px;
+  height: 35px;
+  background-color: lime;
+  margin: auto;
+  text-align: center;
+}
+
+.pulsante{
+  font-size: 10px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+.fila{
+  width: 700px;
+  margin: auto;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+.Nomemonopattino{
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+  margin-bottom: 0px;
+}
+
+.posizione{
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+  margin-top: 0px;
+  font-size: 15px;
+}
+
+.statocaricatext{
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+  margin-top: 0px;
+  font-size: 15px;
+  }
+
+  .BarraCarica1{
+    border-radius: 5px;
+    padding: 5px;
+    width: 300px;
+    height: 20px;
+    background-color: orange;
+  }
+
+  .BarraCarica2{
+    border-radius: 5px;
+    padding: 5px;
+    width: 450px;
+    height: 20px;
+    background-color: lightgreen;
+  }
+
+  .BarraCarica3{
+    border-radius: 5px;
+    padding: 5px;
+    width: 50px;
+    height: 20px;
+    background-color: red;
+  }
